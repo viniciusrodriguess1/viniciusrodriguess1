@@ -33,10 +33,6 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
@@ -68,16 +64,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusrodriguess1&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-
----
-
-<!---
-## 🎧 Últimas músicas que ouvi no Spotify
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mscyyqfqncondneggac4r5u6eq&count=5&width=600&unique=true" alt="Spotify Recently Played" />
-</p>
---->
 
 ---
 
