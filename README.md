@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Vinícius 👋</h1>
 
-<!--
-**viniciusrodriguess1/viniciusrodriguess1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"><i>"Frase de efeito"</i></h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>🎓 Estudante de Engenharia da Computação na UFRPE</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Sobre mim
+
+- 🧩 Interessado em IoT, sistemas embarcados e automação  
+- 🚀 Desenvolvendo o projeto **Água em Ação**  
+- 🌱 Aprendendo mais sobre sensores, ESP32 e integração com sistemas web
+
+---
+
+## 🔨 Projetos em Destaque
+
+- 🔧 [Água em Ação](https://github.com/seu-usuario/agua-em-acao): Monitoramento inteligente de reservatórios com sensores e interface web  
+- 📡 [Sensoriamento Remoto](https://github.com/viniciusrodriguess1/Sensoriamento-Remoto): Uso de microcontroladores para gerenciamento de reservatórios
+
+---
+
+## 🚀 Tecnologias e Ferramentas Favoritas
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusrodrigues1108@gmail.com)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusrodriguess1&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
+<!---
+## 🎧 Últimas músicas que ouvi no Spotify
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mscyyqfqncondneggac4r5u6eq&count=5&width=600&unique=true" alt="Spotify Recently Played" />
+</p>
+--->
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Decorativo rodapé" />
+</p>
