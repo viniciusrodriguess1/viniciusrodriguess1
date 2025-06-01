@@ -1,10 +1,11 @@
-<h1 align="center">Olá, eu sou o Vinícius 👋</h1>
+<h1 align="center">Olá, eu sou o Vinícius👋</h1>
 
-<h3 align="center"><i>"Frase de efeito"</i></h3>
-
+<h3 align="center"><i>🎓Estudante de Engenharia da Computação na UFRPE</i></h3>
+<!---
 <p align="center">
   <strong>🎓 Estudante de Engenharia da Computação na UFRPE</strong>
 </p>
+--->
 
 ---
 
