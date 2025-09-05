@@ -12,7 +12,7 @@
 ## 💻 Sobre mim
 
 - 🧩 Interessado em IoT, sistemas embarcados e automação  
-- 🚀 Desenvolvendo o projeto **Água em Ação**  
+- 🚀 Desenvolvendo o projeto **Sensorium**  
 - 🌱 Aprendendo mais sobre sensores, ESP32 e integração com sistemas web
 
 ---
