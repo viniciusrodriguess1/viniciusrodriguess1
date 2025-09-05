@@ -19,7 +19,7 @@
 
 ## 🔨 Projetos em Destaque
 
-- 🔧 [Água em Ação](https://github.com/seu-usuario/agua-em-acao): Monitoramento inteligente de reservatórios com sensores e interface web  
+- 🔧 [Sensorium](https://github.com/Gmarques07/Sensorium-UFRPE) Monitoramento inteligente de sensores
 - 📡 [Sensoriamento Remoto](https://github.com/viniciusrodriguess1/Sensoriamento-Remoto): Uso de microcontroladores para gerenciamento de reservatórios
 
 ---
