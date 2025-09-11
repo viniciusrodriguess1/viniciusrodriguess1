@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Vinícius👋</h1>
+<h1 align="center">Um pouco sobre mim💻</h1>
 
-<h3 align="center"><i>🎓Estudante de Engenharia da Computação na UFRPE</i></h3>
+<h3 align="center"><i></i></h3>
 <!---
 <p align="center">
   <strong>🎓 Estudante de Engenharia da Computação na UFRPE</strong>
@@ -9,8 +9,8 @@
 
 ---
 
-## 💻 Sobre mim
-
+## 
+- 🎓Estudante de Engenharia da Computação na UFRPE
 - 🧩 Interessado em IoT, sistemas embarcados e automação  
 - 🚀 Desenvolvendo o projeto **Sensorium**  
 - 🌱 Aprendendo mais sobre sensores, ESP32 e integração com sistemas web
