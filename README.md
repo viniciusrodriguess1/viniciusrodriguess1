@@ -1,6 +1,10 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Decorativo topo" />
+  <img 
+    src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" 
+    alt="Decorativo topo" 
+    style="transform: rotate(180deg);"
+  />
 </p>
 
 <h1 align="center">Um pouco sobre mim</h1>
