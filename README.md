@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/Top.svg" alt="Decorativo topo" />
+  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/Top.svg" alt="Topo decorativo" />
 </p>
 <h1 align="center">Um pouco sobre mim</h1>
 
