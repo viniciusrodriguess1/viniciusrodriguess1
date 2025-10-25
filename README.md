@@ -1,11 +1,11 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Decorativo topo" />
+</p>
+
 <h1 align="center">Um pouco sobre mim</h1>
 
 <h3 align="center"><i></i></h3>
-<!---
-<p align="center">
-  <strong>🎓 Estudante de Engenharia da Computação na UFRPE</strong>
-</p>
---->
 
 ---
 
@@ -65,8 +65,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusrodriguess1&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Decorativo rodapé" />
-</p>
