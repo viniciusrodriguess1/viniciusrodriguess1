@@ -1,4 +1,4 @@
-<h1 align="center">Um pouco sobre mim💻</h1>
+<h1 align="center">Um pouco sobre mim</h1>
 
 <h3 align="center"><i></i></h3>
 <!---
@@ -10,21 +10,21 @@
 ---
 
 ## 
-- 🎓Estudante de Engenharia da Computação na UFRPE
-- 🧩 Interessado em IoT, sistemas embarcados e automação  
-- 🚀 Desenvolvendo o projeto **Sensorium**  
-- 🌱 Aprendendo mais sobre sensores, ESP32 e integração com sistemas web
+- Estudante de Engenharia da Computação na UFRPE
+- Interessado em IoT, sistemas embarcados e automação  
+- Desenvolvendo o projeto **Sensorium**  
+- Aprendendo mais sobre sensores, ESP32 e integração com sistemas web
 
 ---
 
-## 🔨 Projetos em Destaque
+## Projetos em Destaque
 
-- 🔧 [Sensorium](https://github.com/Gmarques07/Sensorium-UFRPE) Monitoramento inteligente de sensores
-- 📡 [Sensoriamento Remoto](https://github.com/viniciusrodriguess1/Sensoriamento-Remoto): Uso de microcontroladores para gerenciamento de reservatórios
+-  [Sensorium](https://github.com/Gmarques07/Sensorium-UFRPE) Monitoramento inteligente de sensores
+-  [Sensoriamento Remoto](https://github.com/viniciusrodriguess1/Sensoriamento-Remoto): Uso de microcontroladores para gerenciamento de reservatórios
 
 ---
 
-## 🚀 Tecnologias e Ferramentas Favoritas
+## Tecnologias e Ferramentas Favoritas
 
 <table>
   <tr>
@@ -53,13 +53,13 @@
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusrodrigues1108@gmail.com)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusrodriguess1&show_icons=true&theme=radical" alt="GitHub Stats"/>
