@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" alt="Wave Topo Preta"/>
 </p>
 <h1 align="center">Um pouco sobre mim</h1>
