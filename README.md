@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Top.svg" alt="Decorativo topo" />
+  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/Top.svg" alt="Decorativo topo" />
 </p>
-
-
 <h1 align="center">Um pouco sobre mim</h1>
 
 <h3 align="center"><i></i></h3>
